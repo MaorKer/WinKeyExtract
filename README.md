@@ -8,8 +8,6 @@ Open-source Windows product key extraction CLI tool.
 2. Right-click `WinKeyExtract.exe` and select **Run as administrator**
 3. Your Windows product key, license info, and upgrade history will be displayed
 
-That's it. No installation needed, no dependencies, just a single `.exe` file.
-
 > **Why "Run as administrator"?**
 > Windows stores product keys in protected areas of the registry. Without admin rights, the tool may not be able to read them.
 
